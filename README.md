@@ -13,7 +13,7 @@ Stack 'b' is initially empty.
 The objective is to sort the numbers in ascending order within stack 'a'.
 
 Operations available for sorting:
-sa: Swap the first 2 elements at the top of stack 'a'.
+* sa: Swap the first 2 elements at the top of stack 'a'.
 sb: Swap the first 2 elements at the top of stack 'b'.
 ss: Simultaneously perform 'sa' and 'sb'.
 pa: Push the first element at the top of stack 'b' onto stack 'a'.
