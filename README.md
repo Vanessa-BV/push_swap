@@ -14,16 +14,16 @@ The objective is to sort the numbers in ascending order within stack 'a'.
 
 Operations available for sorting:
 * sa: Swap the first 2 elements at the top of stack 'a'.
-sb: Swap the first 2 elements at the top of stack 'b'.
-ss: Simultaneously perform 'sa' and 'sb'.
-pa: Push the first element at the top of stack 'b' onto stack 'a'.
-pb: Push the first element at the top of stack 'a' onto stack 'b'.
-ra: Rotate all elements of stack 'a' upwards by 1.
-rb: Rotate all elements of stack 'b' upwards by 1.
-rr: Simultaneously perform 'ra' and 'rb'.
-rra: Rotate all elements of stack 'a' downwards by 1.
-rrb: Rotate all elements of stack 'b' downwards by 1.
-rrr: Simultaneously perform 'rra' and 'rrb'.
+* sb: Swap the first 2 elements at the top of stack 'b'.
+* ss: Simultaneously perform 'sa' and 'sb'.
+* pa: Push the first element at the top of stack 'b' onto stack 'a'.
+* pb: Push the first element at the top of stack 'a' onto stack 'b'.
+* ra: Rotate all elements of stack 'a' upwards by 1.
+* rb: Rotate all elements of stack 'b' upwards by 1.
+* rr: Simultaneously perform 'ra' and 'rb'.
+* rra: Rotate all elements of stack 'a' downwards by 1.
+* rrb: Rotate all elements of stack 'b' downwards by 1.
+* rrr: Simultaneously perform 'rra' and 'rrb'.
 
 ## Benchmark
 To validate the project, certain sorts must be performed with a minimal number of operations:
