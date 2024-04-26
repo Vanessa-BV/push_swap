@@ -23,7 +23,7 @@ rra: Rotate all elements of stack 'a' downwards by 1.
 rrb: Rotate all elements of stack 'b' downwards by 1.
 rrr: Simultaneously perform 'rra' and 'rrb'.
 
-###Example
+### Example
 Below is an example illustrating the effects of some instructions during sorting:
 
 Init a and b:
