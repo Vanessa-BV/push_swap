@@ -4,12 +4,14 @@
 The Push Swap project focuses on developing a sorting algorithm in C, emphasizing the understanding of algorithmic complexity and the use of basic algorithms. Sorting algorithms play a fundamental role in a developer's journey, and comprehending their complexity is crucial, especially when facing job interviews and classic questions related to algorithms.
 
 ## Mandatory Part
-###Rules
+### Rules
 The project involves managing two stacks named 'a' and 'b'.
+
 At the beginning:
 Stack 'a' contains a random assortment of negative and/or positive numbers without duplicates.
 Stack 'b' is initially empty.
 The objective is to sort the numbers in ascending order within stack 'a'.
+
 Operations available for sorting:
 sa: Swap the first 2 elements at the top of stack 'a'.
 sb: Swap the first 2 elements at the top of stack 'b'.
